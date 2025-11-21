@@ -1,0 +1,21 @@
+# --- KEAMANAN (WAJIB) ---
+.env
+
+# --- PYTHON SYSTEM FILES ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- VIRTUAL ENVIRONMENT ---
+# (Folder tempat install library, tidak perlu diupload)
+venv/
+env/
+.venv/
+
+# --- DATABASE LOKAL (OPSIONAL) ---
+# Jika kamu tidak ingin data user saat testing di laptop ikut terupload
+users_db.json
+
+# --- LOGS ---
+*.log
