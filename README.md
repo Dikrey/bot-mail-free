@@ -121,10 +121,3 @@ Bot ini dibuat untuk tujuan edukasi dan testing. Pengembang tidak bertanggung ja
 
 *Jangan lupa kasih ⭐ Star di repo ini jika bermanfaat\!*
 
-```
-
-### Cara Mengupload ke GitHub agar Tampil Bagus:
-1.  Buat file baru di GitHub atau di folder komputer Anda bernama `README.md`.
-2.  Paste kode di atas.
-3.  Saat Anda melihatnya di halaman utama GitHub Repository, tampilannya akan otomatis terformat rapi dengan judul besar, poin-poin, dan tombol lencana (badges).
-```
