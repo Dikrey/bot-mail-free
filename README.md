@@ -51,7 +51,7 @@ Pastikan Anda sudah menginstal Python.
    ```bash
    git clone [https://github.com/Dikrey/bot-mail.git](https://github.com/Dikrey/bot-mail.git)
    cd repo-anda
-````
+
 
 2.  **Install Library**
 
