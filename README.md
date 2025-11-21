@@ -4,13 +4,13 @@
 ![Telebot](https://img.shields.io/badge/Library-PyTelegramBotAPI-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 
-**Telegram Bot Canggih untuk Layanan Email Sementara (Disposable Email) dengan Sistem Antrian & Notifikasi Real-time.**
+**Telegram Bot Free Canggih untuk Layanan Email Sementara (Disposable Email) dengan Sistem Antrian & Notifikasi Real-time.**
 
 Bot ini dirancang seperti layanan SaaS (Software as a Service) mini. Untuk membuat akun email asli (bukan sekadar forwarding), lengkap dengan sistem kuota, kode redeem, dan antrian pengguna.
 
 ---
 
-## 🔥 Fitur Utama V6
+## 🔥 Fitur Utama V6 Free 
 
 ### 1. ⏳ Smart Queue System (Sistem Antrian)
 Fitur unggulan V6! Mencegah spam dan memastikan stabilitas.
@@ -120,4 +120,4 @@ Bot ini dibuat untuk tujuan edukasi dan testing. Pengembang tidak bertanggung ja
 -----
 
 *Jangan lupa kasih ⭐ Star di repo ini jika bermanfaat\!*
-
+*Jangan lupa Beli Versi Premium t.me/raihan_official0307\!*
