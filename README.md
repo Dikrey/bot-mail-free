@@ -1,4 +1,4 @@
-# 🤖 Advanced Temp Mail Bot V6 (SaaS Edition)
+# 🤖 Advanced Temp Mail Bot V8 (SaaS Edition)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Telebot](https://img.shields.io/badge/Library-PyTelegramBotAPI-orange?style=for-the-badge)
@@ -10,7 +10,7 @@ Bot ini dirancang seperti layanan SaaS (Software as a Service) mini. Untuk membu
 
 ---
 
-## 🔥 Fitur Utama V6 Free 
+## 🔥 Fitur Utama V8 Free 
 
 ### 1. ⏳ Smart Queue System (Sistem Antrian)
 Fitur unggulan V6! Mencegah spam dan memastikan stabilitas.
